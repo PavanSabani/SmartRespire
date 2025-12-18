@@ -64,12 +64,6 @@ SmartRespire/
 │   ├── preprocessing/       # Audio preprocessing & MFCC extraction
 │   ├── inference.py         # Prediction logic
 │   └── app.py               # Backend server (Flask/FastAPI)
-│
-├── frontend/                # UI for uploading audio & viewing results
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
 ├── test.html                # UI testing / prototype
 ├── README.md                # Project documentation
 ```
